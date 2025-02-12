@@ -16,6 +16,65 @@ logger = logging.getLogger(__name__)
 # Instance de la base de données
 db = Database()
 
+async def addchannel_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Gère la commande /addchannel"""
+    if not update or not update.message:
+        logger.error("Message invalide reçu dans addchannel_command")
+        return
+
+    # Extraire l'identifiant du canal de la commande
+    args = context.args
+    if not args:
+        logger.info("Commande /addchannel reçue sans arguments")
+        await update.message.reply_text(
+            f"{ADD_CHANNEL_PROMPT}\n\nExemple: /addchannel @nom_canal"
+        )
+        return
+
+    channel_id = args[0]
+    try:
+        # Log de la tentative d'ajout
+        logger.info(f"Tentative d'ajout du canal via /addchannel: {channel_id}")
+
+        if not channel_id.startswith('@') and not channel_id.startswith('-100'):
+            logger.warning(f"Format de canal invalide reçu: {channel_id}")
+            raise ValueError("Format de canal invalide")
+
+        # Vérifier que le bot est admin du canal
+        chat_member = await context.bot.get_chat_member(chat_id=channel_id, user_id=context.bot.id)
+        logger.info(f"Statut du bot dans le canal {channel_id}: {chat_member.status}")
+
+        if chat_member.status not in ['administrator', 'creator']:
+            logger.warning(f"Le bot n'est pas admin dans le canal {channel_id}")
+            await update.message.reply_text(
+                f"{BOT_NOT_ADMIN}\n\nStatut actuel : {chat_member.status}"
+            )
+            return
+
+        # Vérifier si le canal existe déjà
+        if channel_id in db.get_channels():
+            logger.info(f"Le canal {channel_id} est déjà enregistré")
+            await update.message.reply_text("Ce canal est déjà enregistré dans la base de données.")
+            return
+
+        # Si le bot est admin et le canal n'existe pas, on l'ajoute
+        db.add_channel(channel_id)
+        logger.info(LOG_CHANNEL_ADD.format(channel_id))
+        await update.message.reply_text(CHANNEL_ADDED)
+
+    except ValueError as ve:
+        logger.error(f"Erreur de format pour le canal {channel_id}: {str(ve)}")
+        await update.message.reply_text(
+            "❌ Format incorrect. Le canal doit commencer par @ ou -100\n\n"
+            "Exemple: /addchannel @nom_canal"
+        )
+    except Exception as e:
+        logger.error(f"Erreur lors de l'ajout du canal {channel_id}: {str(e)}")
+        error_message = f"{ERROR_MESSAGE}\nErreur: Le canal n'existe pas ou le bot n'y a pas accès."
+        await update.message.reply_text(error_message)
+
+
+
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Gère la commande /start"""
     await update.message.reply_text(WELCOME_MESSAGE)
@@ -145,6 +204,12 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         channels = db.get_channels()
         for channel in channels:
             try:
+                # Vérifier que le bot est admin du canal
+                chat_member = await context.bot.get_chat_member(chat_id=channel, user_id=context.bot.id)
+                if chat_member.status not in ['administrator', 'creator']:
+                    logger.warning(f"Le bot n'est pas admin dans le canal {channel}")
+                    continue
+
                 if update.message.text:
                     await context.bot.send_message(channel, update.message.text)
                 elif update.message.photo:
@@ -159,6 +224,11 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         update.message.video.file_id,
                         caption=update.message.caption
                     )
+                elif update.message.sticker:
+                    await context.bot.send_sticker(
+                        channel,
+                        update.message.sticker.file_id
+                    )
             except Exception as e:
                 logger.error(f"Erreur lors de la diffusion vers {channel}: {e}")
 
@@ -170,12 +240,46 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif state == ATTENTE_AJOUT_CANAL:
         channel_id = update.message.text
-        db.add_channel(channel_id)
-        logger.info(LOG_CHANNEL_ADD.format(channel_id))
-        await update.message.reply_text(
-            CHANNEL_ADDED,
-            reply_markup=get_admin_keyboard()
-        )
+        try:
+            # Log de la tentative d'ajout
+            logger.info(f"Tentative d'ajout du canal: {channel_id}")
+
+            if not channel_id.startswith('@') and not channel_id.startswith('-100'):
+                raise ValueError("Format de canal invalide")
+
+            # Vérifier que le bot est admin du canal
+            chat_member = await context.bot.get_chat_member(chat_id=channel_id, user_id=context.bot.id)
+            logger.info(f"Statut du bot dans le canal {channel_id}: {chat_member.status}")
+
+            if chat_member.status not in ['administrator', 'creator']:
+                logger.warning(f"Le bot n'est pas admin dans le canal {channel_id}")
+                await update.message.reply_text(
+                    BOT_NOT_ADMIN,
+                    reply_markup=get_admin_keyboard()
+                )
+                context.user_data.pop('state', None)
+                return
+
+            # Si le bot est admin, on ajoute le canal
+            db.add_channel(channel_id)
+            logger.info(LOG_CHANNEL_ADD.format(channel_id))
+            await update.message.reply_text(
+                CHANNEL_ADDED,
+                reply_markup=get_admin_keyboard()
+            )
+        except ValueError as ve:
+            logger.error(f"Erreur de format pour le canal {channel_id}: {str(ve)}")
+            await update.message.reply_text(
+                f"❌ Format incorrect. Le canal doit commencer par @ ou -100",
+                reply_markup=get_admin_keyboard()
+            )
+        except Exception as e:
+            logger.error(f"Erreur lors de l'ajout du canal {channel_id}: {str(e)}")
+            error_message = f"{ERROR_MESSAGE}\nErreur: Le canal n'existe pas ou le bot n'y a pas accès."
+            await update.message.reply_text(
+                error_message,
+                reply_markup=get_admin_keyboard()
+            )
         context.user_data.pop('state', None)
 
     elif state == ATTENTE_AJOUT_ADMIN:
@@ -202,3 +306,11 @@ async def error_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.effective_message.reply_text(ERROR_MESSAGE)
     except Exception as e:
         logger.error(f"Erreur dans le gestionnaire d'erreurs: {e}")
+
+async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Gère la commande /help"""
+    if not update or not update.message:
+        logger.error("Message invalide reçu dans help_command")
+        return
+
+    await update.message.reply_text(HELP_MESSAGE)
