@@ -1,3 +1,2 @@
 #!/bin/bash
-python bot.py & 
-node server.js
+python app.py
