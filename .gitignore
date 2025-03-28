@@ -1,0 +1,34 @@
+# Ignorer les fichiers de configuration avec des secrets
+.env
+.env.local
+.env.production
+.env.development
+# Ne pas ignorer le fichier exemple
+!.env.example
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les fichiers de base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignorer les logs
+*.log
+
+# Ignorer les dossiers d'environnement virtuel
+venv/
+env/
+ENV/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.bak
+*.swp

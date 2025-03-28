@@ -27,7 +27,7 @@ Ce projet est un bot Telegram en français pour la promotion de canaux avec un p
    - **Name**: anime-promotion-bot (ou un autre nom)
 
 3. Ajoutez les variables d'environnement:
-   - `TELEGRAM_BOT_TOKEN`: Votre token de bot Telegram
+   - `TELEGRAM_BOT_TOKEN`: Votre token de bot Telegram (actuellement `7834676836:AAHCHXoZerNO_IDIwiz3WrpbFHbMbnTS2HQ`)
 
 4. Configurez les ressources:
    - **Instance Type**: Minimal (ou supérieur selon vos besoins)

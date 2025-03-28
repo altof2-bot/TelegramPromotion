@@ -16,6 +16,16 @@ Ce bot Telegram en français est conçu pour aider à la promotion de canaux d'a
 1. Obtenez un token de bot Telegram via [@BotFather](https://t.me/BotFather)
 2. Ajoutez votre token dans les secrets d'environnement: `TELEGRAM_BOT_TOKEN`
 
+### Gestion du token
+
+Le bot utilise actuellement ce token : `7834676836:AAHCHXoZerNO_IDIwiz3WrpbFHbMbnTS2HQ`
+
+Le token est configuré de deux façons :
+- Comme variable d'environnement (méthode recommandée pour la production)
+- Dans un exemple de fichier `.env.example` (pour référence seulement)
+
+⚠️ **IMPORTANT** : Ne jamais inclure de tokens ou secrets dans les fichiers de code source qui seront versionnés sur Git.
+
 ## Démarrage Local
 
 ```bash
