@@ -1,15 +1,23 @@
 # Bot Telegram pour la Promotion de Canaux
 
-Ce bot Telegram en français est conçu pour aider à la promotion de canaux d'anime avec un panneau d'administration complet.
+Ce bot Telegram en français est conçu pour aider à la promotion de canaux d'anime avec un panneau d'administration complet et un système de gamification pour engager les utilisateurs.
 
 ## Fonctionnalités
 
+### Administration
 - Panneau administrateur avec clavier inline
 - Diffusion de contenu (texte, images, vidéos, stickers)
 - Gestion des canaux (ajout, suppression, listage)
 - Gestion des administrateurs
 - Vérification du statut d'admin du bot dans les canaux
 - Support pour la commande /addchannel par les utilisateurs
+
+### Gamification
+- Système de badges et accomplissements
+- Niveaux utilisateur basés sur les points
+- Classement des utilisateurs (leaderboard)
+- Statistiques publiques et privées
+- Interface utilisateur interactive
 
 ## Configuration
 
@@ -38,10 +46,17 @@ python app.py bot
 
 ## Commandes Disponibles
 
+### Commandes de base
 - `/start` - Démarrer le bot et voir le message d'accueil
 - `/help` - Afficher l'aide
 - `/admin` - Accéder au panneau d'administration (seulement pour les admins)
 - `/addchannel` - Ajouter un canal (format: @username ou -100xxx)
+
+### Commandes de gamification
+- `/stats` - Afficher les statistiques du bot
+- `/share` - Générer un lien pour partager le bot
+
+Pour plus d'informations sur le système de gamification, consultez [GAMIFICATION.md](GAMIFICATION.md).
 
 ## Tarifs d'abonnement
 

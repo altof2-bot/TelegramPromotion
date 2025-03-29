@@ -1,0 +1,1583 @@
+[
+    {
+        "id": 1,
+        "titre": "Naruto",
+        "titre_japonais": "ナルト",
+        "image": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+        "synopsis": "Naruto Uzumaki, un jeune ninja hyperactif, rêve de devenir le Hokage de son village pour être reconnu par tous. Mais Naruto a un lourd secret : il est le réceptacle du démon Kyuubi qui a autrefois ravagé le village de Konoha.",
+        "date_debut": "2002-10-03",
+        "date_fin": "2007-02-08",
+        "episodes": 220,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.98,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Arts Martiaux",
+            "Shonen"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 5
+    },
+    {
+        "id": 2,
+        "titre": "One Piece",
+        "titre_japonais": "ワンピース",
+        "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+        "synopsis": "Gold Roger, le légendaire Roi des Pirates, avant de mourir, a révélé l'existence du 'One Piece', un fabuleux trésor. Monkey D. Luffy, un jeune garçon rêve de retrouver ce trésor légendaire et de devenir le nouveau Roi des Pirates.",
+        "date_debut": "1999-10-20",
+        "date_fin": "",
+        "episodes": 1000,
+        "duree": "24 minutes par épisode",
+        "status": "En cours",
+        "score": 8.54,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantaisie",
+            "Shonen"
+        ],
+        "studios": [
+            "Toei Animation"
+        ],
+        "popularite": 2
+    },
+    {
+        "id": 3,
+        "titre": "Attack on Titan",
+        "titre_japonais": "進撃の巨人",
+        "image": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+        "synopsis": "Dans un monde ravagé par des titans mangeurs d'homme, les survivants de l'humanité ont construit d'immenses murs pour se protéger. Mais lorsqu'un titan colossal apparaît et détruit le mur extérieur, l'humanité fait face à une terreur sans précédent.",
+        "date_debut": "2013-04-07",
+        "date_fin": "2023-11-04",
+        "episodes": 88,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 9.16,
+        "genres": [
+            "Action",
+            "Drame",
+            "Fantaisie",
+            "Mystère",
+            "Shonen"
+        ],
+        "studios": [
+            "Wit Studio",
+            "MAPPA"
+        ],
+        "popularite": 3
+    },
+    {
+        "id": 4,
+        "titre": "Demon Slayer",
+        "titre_japonais": "鬼滅の刃",
+        "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "synopsis": "Dans un Japon de l'ère Taisho, Tanjiro Kamado est le premier enfant d'une famille de marchands de charbon. Après que sa famille soit massacrée par un démon et que sa sœur ait été transformée en créature démoniaque, il devient un tueur de démons pour venger sa famille et guérir sa sœur.",
+        "date_debut": "2019-04-06",
+        "date_fin": "",
+        "episodes": 44,
+        "duree": "23 minutes par épisode",
+        "status": "En cours",
+        "score": 8.92,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Surnaturel",
+            "Démons",
+            "Historique"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 4
+    },
+    {
+        "id": 5,
+        "titre": "My Hero Academia",
+        "titre_japonais": "僕のヒーローアカデミア",
+        "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+        "synopsis": "Dans un monde où 80% de la population possède des super-pouvoirs appelés 'Alters', Izuku Midoriya a toujours rêvé d'être un héros. Malheureusement, il fait partie des 20% n'ayant aucun pouvoir, jusqu'à sa rencontre avec All Might, le plus grand des héros.",
+        "date_debut": "2016-04-03",
+        "date_fin": "",
+        "episodes": 113,
+        "duree": "23 minutes par épisode",
+        "status": "En cours",
+        "score": 8.23,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Super Pouvoirs",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "Bones"
+        ],
+        "popularite": 7
+    },
+    {
+        "id": 6,
+        "titre": "Dragon Ball Z",
+        "titre_japonais": "ドラゴンボールZ",
+        "image": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
+        "synopsis": "Cinq ans après avoir remporté le championnat du monde d'arts martiaux, Son Goku vit paisiblement avec sa femme et son fils. Mais tout bascule lorsque Raditz, un guerrier extraterrestre qui prétend être son frère, arrive sur Terre avec de sombres intentions.",
+        "date_debut": "1989-04-26",
+        "date_fin": "1996-01-31",
+        "episodes": 291,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.16,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Super Pouvoirs",
+            "Arts Martiaux",
+            "Shonen"
+        ],
+        "studios": [
+            "Toei Animation"
+        ],
+        "popularite": 1
+    },
+    {
+        "id": 7,
+        "titre": "Death Note",
+        "titre_japonais": "デスノート",
+        "image": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+        "synopsis": "Light Yagami est un lycéen surdoué lassé par le monde corrompu qui l'entoure. Sa vie change radicalement le jour où il trouve le Death Note, un carnet donnant à son possesseur le pouvoir de tuer quiconque dont il connaît le nom et le visage.",
+        "date_debut": "2006-10-04",
+        "date_fin": "2007-06-27",
+        "episodes": 37,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.62,
+        "genres": [
+            "Mystère",
+            "Policier",
+            "Psychologique",
+            "Surnaturel",
+            "Thriller"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 6
+    },
+    {
+        "id": 8,
+        "titre": "Fullmetal Alchemist: Brotherhood",
+        "titre_japonais": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "image": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+        "synopsis": "Après avoir perdu leur mère, les frères Elric tentent de la ressusciter grâce à l'alchimie, mais l'opération tourne mal. Edward perd un bras et une jambe, et Alphonse perd son corps entier. Ils partent alors à la recherche de la Pierre Philosophale pour retrouver leurs corps.",
+        "date_debut": "2009-04-05",
+        "date_fin": "2010-07-04",
+        "episodes": 64,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 9.11,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantaisie",
+            "Militaire",
+            "Shonen"
+        ],
+        "studios": [
+            "Bones"
+        ],
+        "popularite": 8
+    },
+    {
+        "id": 9,
+        "titre": "Hunter x Hunter (2011)",
+        "titre_japonais": "ハンター×ハンター",
+        "image": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+        "synopsis": "Gon Freecss découvre un jour que son père, qu'il croyait mort, est en fait un Hunter d'élite, un membre privilegié de la société. Décidé à suivre les traces de son père, Gon passe l'examen rigoureux de Hunter pour le retrouver.",
+        "date_debut": "2011-10-02",
+        "date_fin": "2014-09-24",
+        "episodes": 148,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 9.05,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Fantaisie",
+            "Shonen"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 10
+    },
+    {
+        "id": 10,
+        "titre": "Jujutsu Kaisen",
+        "titre_japonais": "呪術廻戦",
+        "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+        "synopsis": "Yūji Itadori, un lycéen aux capacités physiques exceptionnelles, rejoint le club de spiritisme pour éviter l'athlétisme. Sa vie bascule lorsque de vrais esprits apparaissent à son école et qu'il avale un doigt maudit pour protéger ses amis, devenant ainsi l'hôte d'une malédiction nommée Ryomen Sukuna.",
+        "date_debut": "2020-10-03",
+        "date_fin": "",
+        "episodes": 24,
+        "duree": "23 minutes par épisode",
+        "status": "En cours",
+        "score": 8.78,
+        "genres": [
+            "Action",
+            "Démons",
+            "Surnaturel",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "MAPPA"
+        ],
+        "popularite": 9
+    },
+    {
+        "titre": "Cowboy Bebop",
+        "titre_japonais": "カウボーイビバップ",
+        "image": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+        "synopsis": "Dans un futur où l'humanité a colonisé le système solaire, l'équipage du vaisseau Bebop, composé de chasseurs de primes, parcourt l'espace à la recherche de criminels. Chacun fuit un passé douloureux qui le rattrape inexorablement.",
+        "date_debut": "1998-04-03",
+        "date_fin": "1999-04-24",
+        "episodes": 26,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.78,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Sci-Fi",
+            "Espace"
+        ],
+        "studios": [
+            "Sunrise"
+        ],
+        "popularite": 15,
+        "id": 11
+    },
+    {
+        "titre": "Code Geass",
+        "titre_japonais": "コードギアス 反逆のルルーシュ",
+        "image": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
+        "synopsis": "Dans un monde dominé par l'Empire de Britannia, Lelouch, un prince exilé, obtient un pouvoir mystérieux appelé Geass qui lui permet de contrôler la volonté des autres. Il l'utilisera pour se venger et changer le monde.",
+        "date_debut": "2006-10-06",
+        "date_fin": "2007-07-28",
+        "episodes": 25,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.7,
+        "genres": [
+            "Action",
+            "Drame",
+            "Mecha",
+            "Militaire",
+            "Sci-Fi",
+            "Super Pouvoirs"
+        ],
+        "studios": [
+            "Sunrise"
+        ],
+        "popularite": 12,
+        "id": 12
+    },
+    {
+        "titre": "Steins;Gate",
+        "titre_japonais": "シュタインズ・ゲート",
+        "image": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+        "synopsis": "Rintaro Okabe, un scientifique autoproclamé, et ses amis créent accidentellement un dispositif capable d'envoyer des messages dans le passé, modifiant ainsi le cours de l'histoire et provoquant des conséquences imprévues.",
+        "date_debut": "2011-04-06",
+        "date_fin": "2011-09-14",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 9.08,
+        "genres": [
+            "Drame",
+            "Psychologique",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "studios": [
+            "White Fox"
+        ],
+        "popularite": 11,
+        "id": 13
+    },
+    {
+        "titre": "Your Name",
+        "titre_japonais": "君の名は。",
+        "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+        "synopsis": "Mitsuha et Taki ne se connaissent pas, mais se retrouvent mystérieusement liés par des rêves dans lesquels ils échangent leurs corps. Ils tentent alors de se retrouver, malgré l'espace et le temps qui les séparent.",
+        "date_debut": "2016-08-26",
+        "date_fin": "2016-08-26",
+        "episodes": 1,
+        "duree": "107 minutes",
+        "status": "Terminé",
+        "score": 8.85,
+        "genres": [
+            "Drame",
+            "Romance",
+            "Surnaturel"
+        ],
+        "studios": [
+            "CoMix Wave Films"
+        ],
+        "popularite": 13,
+        "id": 14
+    },
+    {
+        "titre": "One Punch Man",
+        "titre_japonais": "ワンパンマン",
+        "image": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+        "synopsis": "Saitama est un héros capable de vaincre n'importe quel ennemi d'un seul coup de poing. Frustré par le manque de défi, il cherche un adversaire digne de ce nom tout en combattant le mal avec l'Association des Héros.",
+        "date_debut": "2015-10-05",
+        "date_fin": "2015-12-21",
+        "episodes": 12,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.52,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Super Pouvoirs",
+            "Surnaturel"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 20,
+        "id": 15
+    },
+    {
+        "titre": "Naruto Shippuden",
+        "titre_japonais": "ナルト 疾風伝",
+        "image": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+        "synopsis": "Deux ans et demi se sont écoulés depuis que Naruto a quitté Konoha pour s'entraîner. De retour au village, il poursuit son rêve de devenir Hokage tout en affrontant l'organisation criminelle Akatsuki.",
+        "date_debut": "2007-02-15",
+        "date_fin": "2017-03-23",
+        "episodes": 500,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.24,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Super Pouvoirs",
+            "Arts Martiaux",
+            "Shonen"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 14,
+        "id": 16
+    },
+    {
+        "titre": "Violet Evergarden",
+        "titre_japonais": "ヴァイオレット・エヴァーガーデン",
+        "image": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+        "synopsis": "Violet Evergarden, une ancienne soldate devenue poupée de souvenirs automatiques, voyage pour comprendre les derniers mots de son major : 'Je t'aime'. À travers son métier d'écrivain public, elle découvre les émotions humaines.",
+        "date_debut": "2018-01-11",
+        "date_fin": "2018-04-05",
+        "episodes": 13,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.67,
+        "genres": [
+            "Drame",
+            "Fantasy",
+            "Tranche de vie"
+        ],
+        "studios": [
+            "Kyoto Animation"
+        ],
+        "popularite": 16,
+        "id": 17
+    },
+    {
+        "titre": "Tokyo Ghoul",
+        "titre_japonais": "東京喰種トーキョーグール",
+        "image": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+        "synopsis": "Ken Kaneki, un étudiant ordinaire, devient mi-humain mi-goule après une rencontre fatidique. Déchiré entre deux mondes, il doit apprendre à vivre en tant que goule tout en conservant son humanité.",
+        "date_debut": "2014-07-04",
+        "date_fin": "2014-09-19",
+        "episodes": 12,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.79,
+        "genres": [
+            "Action",
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Surnaturel"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 18,
+        "id": 18
+    },
+    {
+        "titre": "Sword Art Online",
+        "titre_japonais": "ソードアート・オンライン",
+        "image": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+        "synopsis": "En 2022, des joueurs se retrouvent piégés dans un MMORPG en réalité virtuelle. Pour en sortir, ils doivent terminer le jeu, mais la mort dans le jeu signifie la mort dans la réalité.",
+        "date_debut": "2012-07-08",
+        "date_fin": "2012-12-23",
+        "episodes": 25,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.2,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Fantasy",
+            "Jeu",
+            "Romance"
+        ],
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "popularite": 19,
+        "id": 19
+    },
+    {
+        "titre": "L'Attaque des Titans: Saison 2",
+        "titre_japonais": "進撃の巨人 Season 2",
+        "image": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+        "synopsis": "Eren et ses compagnons du Bataillon d'exploration continuent leur combat contre les Titans, mais découvrent bientôt que l'ennemi est plus proche qu'ils ne le pensaient.",
+        "date_debut": "2017-04-01",
+        "date_fin": "2017-06-17",
+        "episodes": 12,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.51,
+        "genres": [
+            "Action",
+            "Drame",
+            "Fantasy",
+            "Mystère",
+            "Shonen"
+        ],
+        "studios": [
+            "Wit Studio"
+        ],
+        "popularite": 17,
+        "id": 20
+    },
+    {
+        "titre": "Assassination Classroom",
+        "titre_japonais": "暗殺教室",
+        "image": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+        "synopsis": "Un étrange professeur à tête de smiley, capable de se déplacer à Mach 20, menace de détruire la Terre. Avant cela, il décide d'enseigner à une classe de lycéens rejetés, qui doivent tenter de l'assassiner avant la fin de l'année scolaire.",
+        "date_debut": "2015-01-10",
+        "date_fin": "2015-06-20",
+        "episodes": 22,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.12,
+        "genres": [
+            "Action",
+            "Comédie",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "Lerche"
+        ],
+        "popularite": 21,
+        "id": 21
+    },
+    {
+        "titre": "Death Parade",
+        "titre_japonais": "デス・パレード",
+        "image": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+        "synopsis": "Dans un bar mystérieux nommé Quindecim, un arbitre jugera l'âme des personnes décédées à travers des jeux révélant leur vraie nature, avant de décider de leur destination finale.",
+        "date_debut": "2015-01-10",
+        "date_fin": "2015-03-28",
+        "episodes": 12,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.18,
+        "genres": [
+            "Drame",
+            "Mystère",
+            "Psychologique",
+            "Thriller"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 25,
+        "id": 22
+    },
+    {
+        "titre": "Made in Abyss",
+        "titre_japonais": "メイドインアビス",
+        "image": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+        "synopsis": "Riko, une jeune orpheline, rêve de devenir Siffleur comme sa mère et d'explorer l'Abysse, un gigantesque trou mystérieux. Accompagnée d'un étrange robot nommé Reg, elle entame une descente périlleuse dans les profondeurs.",
+        "date_debut": "2017-07-07",
+        "date_fin": "2017-09-29",
+        "episodes": 13,
+        "duree": "25 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.66,
+        "genres": [
+            "Aventure",
+            "Drame",
+            "Fantasy",
+            "Mystère",
+            "Sci-Fi"
+        ],
+        "studios": [
+            "Kinema Citrus"
+        ],
+        "popularite": 26,
+        "id": 23
+    },
+    {
+        "titre": "Demon Slayer: Le train de l'infini",
+        "titre_japonais": "鬼滅の刃 無限列車編",
+        "image": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
+        "synopsis": "Tanjiro et ses compagnons rejoignent Rengoku, le Pilier de la Flamme, pour affronter un démon qui a fait disparaître plus de quarante personnes à bord du train de l'infini.",
+        "date_debut": "2020-10-16",
+        "date_fin": "2020-10-16",
+        "episodes": 1,
+        "duree": "117 minutes",
+        "status": "Terminé",
+        "score": 8.76,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Surnaturel",
+            "Démons",
+            "Historique"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 28,
+        "id": 24
+    },
+    {
+        "titre": "Dr. Stone",
+        "titre_japonais": "ドクターストーン",
+        "image": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+        "synopsis": "Après une mystérieuse catastrophe qui a pétrifié toute l'humanité, Senku, un génie scientifique, se réveille 3700 ans plus tard et entreprend de faire renaître la civilisation grâce à la science.",
+        "date_debut": "2019-07-05",
+        "date_fin": "2019-12-13",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.28,
+        "genres": [
+            "Aventure",
+            "Comédie",
+            "Sci-Fi",
+            "Shonen"
+        ],
+        "studios": [
+            "TMS Entertainment"
+        ],
+        "popularite": 30,
+        "id": 25
+    },
+    {
+        "titre": "Vinland Saga",
+        "titre_japonais": "ヴィンランド・サガ",
+        "image": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+        "synopsis": "Au début du 11e siècle, le jeune Thorfinn rejoint les mercenaires qui ont tué son père pour se venger, mais la voie de la vengeance le mènera à une remise en question de ses valeurs et à la recherche d'un monde pacifique.",
+        "date_debut": "2019-07-08",
+        "date_fin": "2019-12-30",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.73,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Historique",
+            "Seinen"
+        ],
+        "studios": [
+            "Wit Studio"
+        ],
+        "popularite": 23,
+        "id": 26
+    },
+    {
+        "titre": "Mob Psycho 100",
+        "titre_japonais": "モブサイコ100",
+        "image": "https://cdn.myanimelist.net/images/anime/5/80084.jpg",
+        "synopsis": "Shigeo Kageyama, surnommé Mob, est un collégien doté de puissants pouvoirs psychiques. Travaillant pour Reigen, un médium arnaqueur, il lutte pour contrôler ses émotions qui, à 100%, déclenchent ses pouvoirs de façon incontrôlable.",
+        "date_debut": "2016-07-12",
+        "date_fin": "2016-09-27",
+        "episodes": 12,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.48,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Surnaturel",
+            "Super Pouvoirs"
+        ],
+        "studios": [
+            "Bones"
+        ],
+        "popularite": 22,
+        "id": 27
+    },
+    {
+        "titre": "Haikyuu!!",
+        "titre_japonais": "ハイキュー!!",
+        "image": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+        "synopsis": "Hinata Shoyo rejoint l'équipe de volleyball du lycée Karasuno, déterminé à devenir le meilleur malgré sa petite taille. Son talent naturel et sa persévérance, combinés à la présence du génie passeur Kageyama, transforment l'équipe.",
+        "date_debut": "2014-04-06",
+        "date_fin": "2014-09-21",
+        "episodes": 25,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.45,
+        "genres": [
+            "Comédie",
+            "Drame",
+            "Sports",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "Production I.G"
+        ],
+        "popularite": 24,
+        "id": 28
+    },
+    {
+        "titre": "Re:Zero",
+        "titre_japonais": "Re：ゼロから始める異世界生活",
+        "image": "https://cdn.myanimelist.net/images/anime/11/79410.jpg",
+        "synopsis": "Subaru Natsuki est soudainement transporté dans un monde fantastique. Il y découvre qu'il possède un pouvoir qui le ramène dans le temps à sa mort. Il luttera pour sauver ceux qui lui sont chers de destins tragiques.",
+        "date_debut": "2016-04-04",
+        "date_fin": "2016-09-19",
+        "episodes": 25,
+        "duree": "25 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.24,
+        "genres": [
+            "Drame",
+            "Fantasy",
+            "Psychologique",
+            "Thriller"
+        ],
+        "studios": [
+            "White Fox"
+        ],
+        "popularite": 27,
+        "id": 29
+    },
+    {
+        "titre": "No Game No Life",
+        "titre_japonais": "ノーゲーム・ノーライフ",
+        "image": "https://cdn.myanimelist.net/images/anime/5/65187.jpg",
+        "synopsis": "Sora et Shiro, deux gamers légendaires formant le duo 'Blank', sont transportés dans un monde où tout se règle par des jeux. Ils entreprennent de conquérir ce monde pour défier le dieu des jeux.",
+        "date_debut": "2014-04-09",
+        "date_fin": "2014-06-25",
+        "episodes": 12,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.14,
+        "genres": [
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Fantasy",
+            "Jeu"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 29,
+        "id": 30
+    },
+    {
+        "titre": "JoJo's Bizarre Adventure",
+        "titre_japonais": "ジョジョの奇妙な冒険",
+        "image": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+        "synopsis": "Des générations de la famille Joestar luttent contre des forces surnaturelles en utilisant des pouvoirs extraordinaires. Chaque partie suit un nouveau JoJo dans une aventure qui traverse différentes époques.",
+        "date_debut": "2012-10-06",
+        "date_fin": "2013-04-06",
+        "episodes": 26,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.1,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Surnaturel",
+            "Vampire",
+            "Shonen"
+        ],
+        "studios": [
+            "David Production"
+        ],
+        "popularite": 31,
+        "id": 31
+    },
+    {
+        "titre": "Fate/Zero",
+        "titre_japonais": "フェイト/ゼロ",
+        "image": "https://cdn.myanimelist.net/images/anime/2/73249.jpg",
+        "synopsis": "Sept mages et leurs serviteurs historiques s'affrontent dans la 4e Guerre du Saint Graal, un combat à mort pour obtenir le pouvoir de réaliser n'importe quel souhait.",
+        "date_debut": "2011-10-02",
+        "date_fin": "2011-12-25",
+        "episodes": 13,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.32,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Surnaturel"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 35,
+        "id": 32
+    },
+    {
+        "titre": "Your Lie in April",
+        "titre_japonais": "四月は君の嘘",
+        "image": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+        "synopsis": "Kosei Arima, un prodige du piano traumatisé, ne peut plus entendre les notes qu'il joue. Sa vie change lorsqu'il rencontre Kaori Miyazono, une violoniste passionnée qui l'aide à redécouvrir la musique.",
+        "date_debut": "2014-10-10",
+        "date_fin": "2015-03-20",
+        "episodes": 22,
+        "duree": "22 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.67,
+        "genres": [
+            "Drame",
+            "Musique",
+            "Romance",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "popularite": 32,
+        "id": 33
+    },
+    {
+        "titre": "Mushishi",
+        "titre_japonais": "蟲師",
+        "image": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+        "synopsis": "Ginko, un mushishi, voyage à travers le Japon rural pour étudier les mushi, des créatures primitives qui existent à la limite entre la vie et la mort, et aider ceux qui sont affectés par eux.",
+        "date_debut": "2005-10-23",
+        "date_fin": "2006-06-19",
+        "episodes": 26,
+        "duree": "25 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.68,
+        "genres": [
+            "Aventure",
+            "Fantastique",
+            "Historique",
+            "Mystère",
+            "Seinen",
+            "Slice of Life",
+            "Surnaturel"
+        ],
+        "studios": [
+            "Artland"
+        ],
+        "popularite": 50,
+        "id": 34
+    },
+    {
+        "titre": "Gintama",
+        "titre_japonais": "銀魂",
+        "image": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+        "synopsis": "Dans un Japon féodal envahi par des extraterrestres, le samouraï Gintoki Sakata travaille comme homme à tout faire avec ses amis pour payer son loyer, enchaînant les situations absurdes.",
+        "date_debut": "2006-04-04",
+        "date_fin": "2010-03-25",
+        "episodes": 201,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.95,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Science-fiction",
+            "Parodie",
+            "Samouraï",
+            "Shonen"
+        ],
+        "studios": [
+            "Sunrise"
+        ],
+        "popularite": 38,
+        "id": 35
+    },
+    {
+        "titre": "Kimetsu no Yaiba",
+        "titre_japonais": "鬼滅の刃",
+        "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "synopsis": "Après le massacre de sa famille par un démon, Tanjiro devient un pourfendeur de démons pour venger sa famille et guérir sa sœur Nezuko, transformée en démon mais ayant gardé sa conscience humaine.",
+        "date_debut": "2019-04-06",
+        "date_fin": "2019-09-28",
+        "episodes": 26,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.54,
+        "genres": [
+            "Action",
+            "Démons",
+            "Historique",
+            "Shonen",
+            "Surnaturel"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 34,
+        "id": 36
+    },
+    {
+        "titre": "Black Clover",
+        "titre_japonais": "ブラッククローバー",
+        "image": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+        "synopsis": "Dans un monde où la magie est tout, Asta, né sans pouvoir magique, aspire à devenir le sorcier le plus puissant du royaume. Avec son grimoire unique et sa détermination inébranlable, il poursuit son rêve.",
+        "date_debut": "2017-10-03",
+        "date_fin": "2021-03-30",
+        "episodes": 170,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.16,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Fantasy",
+            "Magie",
+            "Shonen"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 36,
+        "id": 37
+    },
+    {
+        "titre": "Neon Genesis Evangelion",
+        "titre_japonais": "新世紀エヴァンゲリオン",
+        "image": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+        "synopsis": "Dans un monde post-apocalyptique, le jeune Shinji Ikari est recruté par son père pour piloter l'EVA-01, un mecha géant, et combattre des entités mystérieuses appelées Anges. Un anime qui mêle action et introspection psychologique.",
+        "date_debut": "1995-10-04",
+        "date_fin": "1996-03-27",
+        "episodes": 26,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.35,
+        "genres": [
+            "Action",
+            "Drame",
+            "Mecha",
+            "Psychologique",
+            "Sci-Fi"
+        ],
+        "studios": [
+            "Gainax"
+        ],
+        "popularite": 33,
+        "id": 38
+    },
+    {
+        "titre": "Parasyte",
+        "titre_japonais": "寄生獣 セイの格率",
+        "image": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+        "synopsis": "Des parasites extraterrestres envahissent la Terre et prennent le contrôle du cerveau humain. Shinichi Izumi est infecté au bras droit, conservant sa conscience. Lui et son parasite, Migi, doivent coexister et lutter contre d'autres parasites.",
+        "date_debut": "2014-10-09",
+        "date_fin": "2015-03-26",
+        "episodes": 24,
+        "duree": "22 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.36,
+        "genres": [
+            "Action",
+            "Drame",
+            "Horreur",
+            "Psychologique",
+            "Sci-Fi",
+            "Seinen"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 37,
+        "id": 39
+    },
+    {
+        "titre": "The Promised Neverland",
+        "titre_japonais": "約束のネバーランド",
+        "image": "https://cdn.myanimelist.net/images/anime/1125/96929.jpg",
+        "synopsis": "Emma, Norman et Ray, orphelins dans une maison idyllique, découvrent l'horrible vérité derrière leur existence : ils sont élevés comme du bétail pour être mangés par des démons. Ils planifient alors leur évasion.",
+        "date_debut": "2019-01-10",
+        "date_fin": "2019-03-29",
+        "episodes": 12,
+        "duree": "22 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.55,
+        "genres": [
+            "Horreur",
+            "Mystery",
+            "Psychologique",
+            "Sci-Fi",
+            "Shonen",
+            "Thriller"
+        ],
+        "studios": [
+            "CloverWorks"
+        ],
+        "popularite": 39,
+        "id": 40
+    },
+    {
+        "titre": "Food Wars!",
+        "titre_japonais": "食戟のソーマ",
+        "image": "https://cdn.myanimelist.net/images/anime/3/72943.jpg",
+        "synopsis": "Soma Yukihira intègre une prestigieuse école culinaire où seulement 10% des élèves sont diplômés. Avec ses techniques de cuisine innovantes et son audace, il affronte les meilleurs dans des duels culinaires épiques.",
+        "date_debut": "2015-04-04",
+        "date_fin": "2015-09-26",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.25,
+        "genres": [
+            "Comédie",
+            "Ecchi",
+            "École",
+            "Shonen"
+        ],
+        "studios": [
+            "J.C.Staff"
+        ],
+        "popularite": 40,
+        "id": 41
+    },
+    {
+        "titre": "Monster",
+        "titre_japonais": "モンスター",
+        "image": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+        "synopsis": "Le Dr Kenzo Tenma, un neurochirurgien brillant, sauve la vie d'un jeune garçon au lieu d'un politicien. Des années plus tard, il découvre que ce garçon est devenu un psychopathe, et part à sa recherche pour réparer son erreur.",
+        "date_debut": "2004-04-07",
+        "date_fin": "2005-09-28",
+        "episodes": 74,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.67,
+        "genres": [
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Seinen",
+            "Thriller"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 45,
+        "id": 42
+    },
+    {
+        "titre": "Berserk",
+        "titre_japonais": "ベルセルク",
+        "image": "https://cdn.myanimelist.net/images/anime/1384/119011.jpg",
+        "synopsis": "Guts, un mercenaire solitaire, rejoint la Troupe du Faucon dirigée par le charismatique Griffith. Leur amitié se transforme en une lutte pour la survie lorsque l'ambition de Griffith mène à une trahison indicible.",
+        "date_debut": "1997-10-08",
+        "date_fin": "1998-04-01",
+        "episodes": 25,
+        "duree": "25 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.57,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantasy",
+            "Horreur",
+            "Surnaturel",
+            "Militaire",
+            "Seinen"
+        ],
+        "studios": [
+            "OLM"
+        ],
+        "popularite": 41,
+        "id": 43
+    },
+    {
+        "titre": "Psycho-Pass",
+        "titre_japonais": "サイコパス",
+        "image": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
+        "synopsis": "Dans un futur où un système informatique mesure les tendances criminelles des citoyens, l'inspectrice Akane Tsunemori et l'exécuteur Shinya Kogami traquent un criminel qui échappe au système.",
+        "date_debut": "2012-10-12",
+        "date_fin": "2013-03-22",
+        "episodes": 22,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.34,
+        "genres": [
+            "Action",
+            "Policier",
+            "Psychologique",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "studios": [
+            "Production I.G"
+        ],
+        "popularite": 42,
+        "id": 44
+    },
+    {
+        "titre": "Bakemonogatari",
+        "titre_japonais": "化物語",
+        "image": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+        "synopsis": "Koyomi Araragi, un lycéen qui a survécu à une attaque de vampire, rencontre plusieurs filles affectées par des \"aberrations\", des anomalies surnaturelles liées à leurs émotions et traumas personnels.",
+        "date_debut": "2009-07-03",
+        "date_fin": "2010-06-25",
+        "episodes": 15,
+        "duree": "25 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.36,
+        "genres": [
+            "Comédie",
+            "Drame",
+            "Mystery",
+            "Romance",
+            "Surnaturel",
+            "Vampire"
+        ],
+        "studios": [
+            "Shaft"
+        ],
+        "popularite": 43,
+        "id": 45
+    },
+    {
+        "titre": "A Silent Voice",
+        "titre_japonais": "聲の形",
+        "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+        "synopsis": "Shoya Ishida, qui a harcelé une camarade malentendante, Shoko Nishimiya, au primaire, cherche à se racheter des années plus tard. Un récit émouvant sur le harcèlement, le pardon et la rédemption.",
+        "date_debut": "2016-09-17",
+        "date_fin": "2016-09-17",
+        "episodes": 1,
+        "duree": "130 minutes",
+        "status": "Terminé",
+        "score": 8.94,
+        "genres": [
+            "Drame",
+            "Romance",
+            "École"
+        ],
+        "studios": [
+            "Kyoto Animation"
+        ],
+        "popularite": 44,
+        "id": 46
+    },
+    {
+        "titre": "Black Lagoon",
+        "titre_japonais": "ブラック・ラグーン",
+        "image": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+        "synopsis": "Rokuro \"Rock\" Okajima, un homme d'affaires japonais, est kidnappé par des pirates mercenaires dans les eaux de l'Asie du Sud-Est. Finalement accepté dans leur groupe, il découvre un monde de violence et de crime.",
+        "date_debut": "2006-04-09",
+        "date_fin": "2006-06-25",
+        "episodes": 12,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.07,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Drame",
+            "Seinen",
+            "Thriller"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 48,
+        "id": 47
+    },
+    {
+        "titre": "Bleach",
+        "titre_japonais": "ブリーチ",
+        "image": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+        "synopsis": "Ichigo Kurosaki obtient les pouvoirs d'un Shinigami (Dieu de la Mort) et doit protéger les humains contre les esprits maléfiques et guider les âmes vers l'au-delà, tout en découvrant les secrets de son propre passé.",
+        "date_debut": "2004-10-05",
+        "date_fin": "2012-03-27",
+        "episodes": 366,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.92,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Super Pouvoirs",
+            "Surnaturel",
+            "Shonen"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 46,
+        "id": 48
+    },
+    {
+        "titre": "Fairy Tail",
+        "titre_japonais": "フェアリーテイル",
+        "image": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+        "synopsis": "Lucy Heartfilia, une jeune magicienne, rejoint la guilde Fairy Tail et fait équipe avec Natsu, un chasseur de dragon. Ensemble avec leurs amis, ils accomplissent des missions et affrontent des ennemis redoutables.",
+        "date_debut": "2009-10-12",
+        "date_fin": "2013-03-30",
+        "episodes": 175,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.61,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantasy",
+            "Magie",
+            "Shonen"
+        ],
+        "studios": [
+            "A-1 Pictures",
+            "Satelight"
+        ],
+        "popularite": 47,
+        "id": 49
+    },
+    {
+        "titre": "Erased",
+        "titre_japonais": "僕だけがいない街",
+        "image": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+        "synopsis": "Satoru Fujinuma possède un pouvoir qui le renvoie dans le passé juste avant qu'un accident mortel ne se produise. Après le meurtre de sa mère, il est projeté 18 ans en arrière pour empêcher l'enlèvement de ses camarades de classe.",
+        "date_debut": "2016-01-08",
+        "date_fin": "2016-03-25",
+        "episodes": 12,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.33,
+        "genres": [
+            "Mystery",
+            "Psychologique",
+            "Surnaturel",
+            "Thriller"
+        ],
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "popularite": 49,
+        "id": 50
+    },
+    {
+        "titre": "Anohana",
+        "titre_japonais": "あの日見た花の名前を僕達はまだ知らない。",
+        "image": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+        "synopsis": "Jinta Yadomi, devenu reclus, est hanté par le fantôme de son amie d'enfance Menma. Pour l'aider à passer dans l'au-delà, il doit réunir leur ancien groupe d'amis et réaliser son souhait.",
+        "date_debut": "2011-04-15",
+        "date_fin": "2011-06-24",
+        "episodes": 11,
+        "duree": "22 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.4,
+        "genres": [
+            "Drame",
+            "Slice of Life",
+            "Surnaturel"
+        ],
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "popularite": 51,
+        "id": 51
+    },
+    {
+        "titre": "Clannad: After Story",
+        "titre_japonais": "クラナド アフターストーリー",
+        "image": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+        "synopsis": "Suite de Clannad, cette série suit Tomoya et Nagisa dans leur vie d'adultes. Lorsque la tragédie frappe, Tomoya doit apprendre à faire face à ses responsabilités et à trouver un sens à sa vie.",
+        "date_debut": "2008-10-03",
+        "date_fin": "2009-03-27",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.94,
+        "genres": [
+            "Drame",
+            "Romance",
+            "Surnaturel",
+            "Tranche de vie"
+        ],
+        "studios": [
+            "Kyoto Animation"
+        ],
+        "popularite": 52,
+        "id": 52
+    },
+    {
+        "titre": "Violet Evergarden: The Movie",
+        "titre_japonais": "劇場版 ヴァイオレット・エヴァーガーデン",
+        "image": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg",
+        "synopsis": "Plusieurs années après la fin de la guerre, Violet Evergarden continue d'aider les gens à exprimer leurs sentiments à travers ses lettres, tout en cherchant à comprendre ses propres émotions et à découvrir ce qui est arrivé au Major Gilbert.",
+        "date_debut": "2020-09-18",
+        "date_fin": "2020-09-18",
+        "episodes": 1,
+        "duree": "140 minutes",
+        "status": "Terminé",
+        "score": 8.91,
+        "genres": [
+            "Drame",
+            "Fantasy",
+            "Tranche de vie"
+        ],
+        "studios": [
+            "Kyoto Animation"
+        ],
+        "popularite": 53,
+        "id": 53
+    },
+    {
+        "titre": "Demon Slayer: Entertainment District Arc",
+        "titre_japonais": "鬼滅の刃 遊郭編",
+        "image": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+        "synopsis": "Tanjiro, Zenitsu et Inosuke, accompagnés par Nezuko et le Pilier du Son Tengen Uzui, se rendent dans le quartier des plaisirs pour traquer un démon qui se cache parmi les courtisanes.",
+        "date_debut": "2021-12-05",
+        "date_fin": "2022-02-13",
+        "episodes": 11,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.86,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Démons",
+            "Historique",
+            "Shonen",
+            "Surnaturel"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 54,
+        "id": 54
+    },
+    {
+        "titre": "Samurai Champloo",
+        "titre_japonais": "サムライチャンプルー",
+        "image": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg",
+        "synopsis": "Dans un Japon alternatif de l'ère Edo, Fuu, une serveuse, sauve deux samouraïs aux styles de combat opposés, Mugen et Jin. Elle les engage pour l'aider à trouver 'le samouraï qui sent le tournesol', entamant un voyage rempli d'aventures.",
+        "date_debut": "2004-05-20",
+        "date_fin": "2005-03-19",
+        "episodes": 26,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.48,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Samouraï"
+        ],
+        "studios": [
+            "Manglobe"
+        ],
+        "popularite": 55,
+        "id": 55
+    },
+    {
+        "titre": "Overlord",
+        "titre_japonais": "オーバーロード",
+        "image": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
+        "synopsis": "Lorsque le jeu YGGDRASIL ferme ses serveurs, un joueur, Momonga, décide de rester jusqu'à la fin. Contre toute attente, il se retrouve piégé dans le jeu sous la forme de son personnage squelettique, et le monde virtuel prend vie autour de lui.",
+        "date_debut": "2015-07-07",
+        "date_fin": "2015-09-29",
+        "episodes": 13,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.91,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Fantasy",
+            "Jeu",
+            "Surnaturel"
+        ],
+        "studios": [
+            "Madhouse"
+        ],
+        "popularite": 56,
+        "id": 56
+    },
+    {
+        "titre": "Kill la Kill",
+        "titre_japonais": "キルラキル",
+        "image": "https://cdn.myanimelist.net/images/anime/8/75514.jpg",
+        "synopsis": "Ryuko Matoi arrive à l'Académie Honnouji avec une moitié de paire de ciseaux géants, à la recherche du meurtrier de son père. Elle défie la présidente du conseil des élèves, Satsuki Kiryuin, et découvre le pouvoir d'un uniforme vivant.",
+        "date_debut": "2013-10-04",
+        "date_fin": "2014-03-28",
+        "episodes": 24,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.14,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Super Pouvoirs"
+        ],
+        "studios": [
+            "Trigger"
+        ],
+        "popularite": 57,
+        "id": 57
+    },
+    {
+        "titre": "Tokyo Revengers",
+        "titre_japonais": "東京リベンジャーズ",
+        "image": "https://cdn.myanimelist.net/images/anime/1839/122012.jpg",
+        "synopsis": "Takemichi Hanagaki apprend que son ex-petite amie a été tuée par un gang. Après un accident, il remonte 12 ans dans le passé et a la possibilité de changer le cours des événements pour sauver son ex-petite amie.",
+        "date_debut": "2021-04-11",
+        "date_fin": "2021-09-19",
+        "episodes": 24,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.25,
+        "genres": [
+            "Action",
+            "Drame",
+            "Shonen",
+            "Surnaturel"
+        ],
+        "studios": [
+            "LIDENFILMS"
+        ],
+        "popularite": 58,
+        "id": 58
+    },
+    {
+        "titre": "Akame ga Kill!",
+        "titre_japonais": "アカメが斬る!",
+        "image": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+        "synopsis": "Tatsumi part pour la capitale afin de gagner de l'argent pour son village. Il découvre la corruption qui y règne et rejoint Night Raid, un groupe d'assassins déterminés à renverser l'Empire corrompu.",
+        "date_debut": "2014-07-07",
+        "date_fin": "2014-12-15",
+        "episodes": 24,
+        "duree": "23 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.47,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantasy",
+            "Shonen"
+        ],
+        "studios": [
+            "White Fox"
+        ],
+        "popularite": 59,
+        "id": 59
+    },
+    {
+        "titre": "Blue Exorcist",
+        "titre_japonais": "青の祓魔師",
+        "image": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+        "synopsis": "Rin Okumura découvre qu'il est le fils de Satan. Déterminé à le vaincre, il s'inscrit à l'Académie de la Croix-Vraie pour devenir exorciste, tout en cachant sa véritable nature aux autres.",
+        "date_debut": "2011-04-17",
+        "date_fin": "2011-10-02",
+        "episodes": 25,
+        "duree": "24 minutes par épisode",
+        "status": "Terminé",
+        "score": 7.49,
+        "genres": [
+            "Action",
+            "Démons",
+            "Fantasy",
+            "Shonen",
+            "Surnaturel"
+        ],
+        "studios": [
+            "A-1 Pictures"
+        ],
+        "popularite": 60,
+        "id": 60
+    },
+    {
+        "titre": "Hellsing Ultimate",
+        "titre_japonais": "ヘルシング アルティメット",
+        "image": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
+        "synopsis": "L'Organisation Hellsing protège l'Angleterre des vampires et autres forces surnaturelles. Leur arme ultime, Alucard, un vampire ancien et puissant, combat les ennemis alors qu'une guerre secrète se prépare.",
+        "date_debut": "2006-02-10",
+        "date_fin": "2012-12-26",
+        "episodes": 10,
+        "duree": "50 minutes par épisode",
+        "status": "Terminé",
+        "score": 8.36,
+        "genres": [
+            "Action",
+            "Horreur",
+            "Militaire",
+            "Seinen",
+            "Surnaturel",
+            "Vampire"
+        ],
+        "studios": [
+            "Madhouse",
+            "Satelight"
+        ],
+        "popularite": 61,
+        "id": 61
+    },
+    {
+        "titre": "Boruto: Naruto Next Generations",
+        "titre_japonais": "ボルト: ナルト ネクスト ジェネレーションズ",
+        "image": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
+        "synopsis": "Suite de la série Naruto, Boruto suit les aventures du fils de Naruto Uzumaki, Boruto, qui entre à l'académie ninja et cherche à se faire un nom en dehors de l'ombre de son père.",
+        "date_debut": "2017-04-05",
+        "date_fin": "",
+        "episodes": 293,
+        "duree": "23 min par épisode",
+        "status": "En cours",
+        "score": 6.86,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Arts Martiaux",
+            "Shōnen"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "popularite": 20,
+        "id": 62
+    },
+    {
+        "titre": "Dragon Ball Super",
+        "titre_japonais": "ドラゴンボール超スーパー",
+        "image": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+        "synopsis": "Suite de Dragon Ball Z, l'histoire reprend après la défaite de Majin Buu, alors que la Terre connaît une période de paix. Cependant, de nouvelles menaces apparaissent, notamment des dieux de la destruction.",
+        "date_debut": "2015-07-05",
+        "date_fin": "2018-03-25",
+        "episodes": 131,
+        "duree": "24 min par épisode",
+        "status": "Terminé",
+        "score": 7.59,
+        "genres": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Arts Martiaux",
+            "Fantastique",
+            "Shōnen"
+        ],
+        "studios": [
+            "Toei Animation"
+        ],
+        "popularite": 15,
+        "id": 63
+    },
+    {
+        "titre": "Chainsaw Man",
+        "titre_japonais": "チェンソーマン",
+        "image": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+        "synopsis": "Denji est un adolescent qui vit dans la pauvreté, tentant de rembourser la dette laissée par son père en travaillant comme Devil Hunter avec son démon Pochita. Après avoir été trahi et tué, Denji fusionne avec Pochita et devient Chainsaw Man.",
+        "date_debut": "2022-10-12",
+        "date_fin": "2022-12-28",
+        "episodes": 12,
+        "duree": "24 min par épisode",
+        "status": "Terminé",
+        "score": 8.54,
+        "genres": [
+            "Action",
+            "Fantastique",
+            "Horreur",
+            "Shōnen"
+        ],
+        "studios": [
+            "MAPPA"
+        ],
+        "popularite": 5,
+        "id": 64
+    },
+    {
+        "titre": "Spy x Family",
+        "titre_japonais": "スパイファミリー",
+        "image": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+        "synopsis": "Pour maintenir la paix entre deux nations rivales, un agent secret nommé Twilight doit former une famille fictive pour accomplir sa mission. Sans le savoir, il adopte une fille télépathe et épouse une tueuse à gages.",
+        "date_debut": "2022-04-09",
+        "date_fin": "2022-12-24",
+        "episodes": 25,
+        "duree": "24 min par épisode",
+        "status": "Terminé",
+        "score": 8.61,
+        "genres": [
+            "Action",
+            "Comédie",
+            "Espionnage",
+            "Shōnen"
+        ],
+        "studios": [
+            "Wit Studio",
+            "CloverWorks"
+        ],
+        "popularite": 8,
+        "id": 65
+    },
+    {
+        "titre": "Demon Slayer: Kimetsu no Yaiba",
+        "titre_japonais": "鬼滅の刃",
+        "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "synopsis": "Après que sa famille a été brutalement massacrée et que sa sœur a été transformée en démon, Tanjirou Kamado décide de devenir un tueur de démons pour venger sa famille et trouver un remède pour sa sœur.",
+        "date_debut": "2019-04-06",
+        "date_fin": "2019-09-28",
+        "episodes": 26,
+        "duree": "23 min par épisode",
+        "status": "Terminé",
+        "score": 8.53,
+        "genres": [
+            "Action",
+            "Démons",
+            "Historique",
+            "Shōnen",
+            "Surnaturel"
+        ],
+        "studios": [
+            "ufotable"
+        ],
+        "popularite": 3,
+        "id": 66
+    }
+]

@@ -1,1 +1,47 @@
-{"channels": ["@aanime_tv", "@Okitisura"], "admins": [5116530698]}
+{
+  "channels": [
+    "@Okitisura",
+    "@aanime_tv"
+  ],
+  "admins": [
+    5116530698
+  ],
+  "users": {
+    "5116530698": {
+      "id": "5116530698",
+      "name": "\ud835\udce2\ud835\udcf2\ud835\udcf7\ud835\udcee\ud835\udcfe\ud835\udcfb",
+      "first_seen": "2025-03-28T21:31:30.221636",
+      "last_seen": "2025-03-29T04:47:20.325953",
+      "points": 20,
+      "badges": [
+        {
+          "id": "nouveau_membre",
+          "nom": "Nouveau Membre",
+          "emoji": "\ud83d\udd30",
+          "description": "A rejoint le bot de publication anime",
+          "points": 5,
+          "date_obtention": "2025-03-28T21:31:30.222111"
+        },
+        {
+          "id": "partage",
+          "nom": "Ambassadeur",
+          "emoji": "\ud83d\udce2",
+          "description": "A partag\u00e9 le bot avec d'autres utilisateurs",
+          "points": 15,
+          "date_obtention": "2025-03-28T21:32:48.139385"
+        }
+      ],
+      "messages_count": 7,
+      "subscribed": false,
+      "premium": false,
+      "shares": 15
+    }
+  },
+  "stats": {
+    "total_broadcasts": 0,
+    "total_messages": 7,
+    "users_count": 1,
+    "active_channels": 2,
+    "last_update": "2025-03-29T04:47:20.326110"
+  }
+}
